@@ -1,7 +1,7 @@
-package exam_advance_1.bussiness;
+package ra.bussiness;
 
-import exam_advance_1.bussinessImp.Catalog;
-import exam_advance_1.bussinessImp.Product;
+import ra.bussinessImp.Catalog;
+import ra.bussinessImp.Product;
 
 import java.util.List;
 import java.util.Scanner;

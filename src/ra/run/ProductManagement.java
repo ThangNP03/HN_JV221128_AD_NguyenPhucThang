@@ -1,7 +1,7 @@
-package exam_advance_1.run;
+package ra.run;
 
-import exam_advance_1.bussinessImp.Catalog;
-import exam_advance_1.bussinessImp.Product;
+import ra.bussinessImp.Catalog;
+import ra.bussinessImp.Product;
 
 import java.util.*;
 
